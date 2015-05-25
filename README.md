@@ -1,10 +1,10 @@
-# hang_man
+### hang_man
 
-###Contributors: Trevor Rapp, David Wise, Bob Ziroll 
+#####Contributors: Trevor Rapp, David Wise, Bob Ziroll 
 
 This is a simple game of hangman done completely in Python.  
 
-###Contact information: 
+####Contact information: 
 
 Feel free to contact me about questions, comments, or suggestions.
 
@@ -14,7 +14,7 @@ Feel free to contact me about questions, comments, or suggestions.
 
 *[photoblog](trappphotography.wordpress.com)
 
-###Other Stuff to Check Out
+####Other Stuff to Check Out
 
 * [Portfolio](http://web-karma.org//)
 
