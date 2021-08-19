@@ -17,7 +17,7 @@ Instructions on how to launch
 
 - 1 Install Python
   * From your browser navigate to Python.org
-  * 
+  * ![Python.org](https://github.com/trrapp12/hang_man/issues/1#issue-974180520)
 - 2 Clone the repository
 - 3 Navigate into the directory
 - 4 From the terminal launch the program by typing ```python hangman.py```
