@@ -15,16 +15,8 @@ This is a simple game of hangman done completely in Python.  The program asks if
 ---
 Instructions on how to launch
 
-- 1 Install Python
-  * From your browser navigate to Python.org
-  * On the Python.org page, find the links to download the file.  Versions are available for Mac or Windows.  However, I found the Mac version worked more consistently for me. 
-  <br/>
-  <br/>
-  ![image](https://user-images.githubusercontent.com/11747875/129993191-4912f7c9-edeb-40ad-b73f-96a35f4dc884.png)
-  <br/>
-  <br/>
-- 2 Alternately, if you would like to check from the command line you can do the following: 
- * type &#8984;  + `space`
+- 1 Make sure you have a Python interpreter installed: 
+ * on a Mac type &#8984;  + `space`
  * type "terminal"
  * press `Enter`
  * in the shell command line type 
@@ -39,7 +31,25 @@ $ python2 --version
 $ python3 --version
 ```
 
-- 2 Clone the repository
+
+ * This will show you if you have Python installed already and which version you have installed. 
+ 
+- 2 If you need to, install Python
+
+  * From your browser navigate to Python.org
+  * On the Python.org page, find the links to download the file.  Versions are available for Mac or Windows.  However, I found the Mac version worked more consistently for me. 
+  <br/>
+  <br/>
+  ![image](https://user-images.githubusercontent.com/11747875/129993191-4912f7c9-edeb-40ad-b73f-96a35f4dc884.png)
+  <br/>
+  <br/>
+
+- 3 Create a Folder to hold the program
+  * in the terminal type `mkdir Hangman` or whatever other name you want to call it. 
+  * navigate into the folder by typing `cd Hangman`
+  * clone the program into the Hangman folder you just created by typing: 
+  ```
+  
 - 3 Navigate into the directory
 - 4 From the terminal launch the program by typing ```python hangman.py```
 <br/>
