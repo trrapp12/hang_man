@@ -11,9 +11,10 @@ This is a simple game of hangman done completely in Python.  The program asks if
 <br/>
 <br/>
 
-### This project demonstrates the following:
+
+
+### Instructions on how to launch:
 ---
-Instructions on how to launch
 
 1. Make sure you have a Python interpreter installed: 
   - on a Mac type &#8984;  + `space`
