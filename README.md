@@ -24,7 +24,10 @@ Instructions on how to launch
   <br/>
   <br/>
 - 2 Alternately, if you would like to check from the command line you can do the following: 
- * type &#8984;  &#x20;
+ * type &#8984;  + `space`
+ * type "terminal"
+ * &#13;
+&#xD;
 
 - 2 Clone the repository
 - 3 Navigate into the directory
