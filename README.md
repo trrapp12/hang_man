@@ -66,14 +66,14 @@ $ python3 --version
 ### This project demonstrates the following:
 ---
 
- [x]  Correct use of functions, conditionals, loops, arrays.
- [x]  Properly sequence Python statements.
- [x]  Select a random word from a dictionary of words.
- [x]  Display all guesses on the user's screen so the user knows what letters he/she has already guessed.
- [x]  Display a visual indication for each letter in the word.
- [x]  Display the number of turns remaining.
- [x]  Decrement the number of turns remaining.
- [x]  Display letters guessed in the position that they are contained in the word.
+- [x] Correct use of functions, conditionals, loops, arrays.
+- [x] Properly sequence Python statements.
+- [x] Select a random word from a dictionary of words.
+- [x] Display all guesses on the user's screen so the user knows what letters he/she has already guessed.
+- [x] Display a visual indication for each letter in the word.
+- [x] Display the number of turns remaining.
+- [x] Decrement the number of turns remaining.
+- [x] Display letters guessed in the position that they are contained in the word.
 
 <br/>
 <br/>
