@@ -27,8 +27,9 @@ Instructions on how to launch
  * type &#8984;  + `space`
  * type "terminal"
 
-&#9094;
-&#x2386;
+&#8629;
+&#x21B5;
+&crarr;
 
 - 2 Clone the repository
 - 3 Navigate into the directory
