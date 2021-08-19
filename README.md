@@ -24,7 +24,8 @@ Instructions on how to launch
   <br/>
   <br/>
 - 2 Alternately, if you would like to check from the command line you can do the following: 
- * type &#8984
+ * type  
+ &#8984
 
 &#9658;
 &#767;
