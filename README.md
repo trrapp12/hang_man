@@ -16,10 +16,10 @@ This is a simple game of hangman done completely in Python.  The program asks if
 Instructions on how to launch
 
 - 1 Make sure you have a Python interpreter installed: 
- * on a Mac type &#8984;  + `space`
- * type "terminal"
- * press `Enter`
- * in the shell command line type 
+  - on a Mac type &#8984;  + `space`
+  - type "terminal"
+  - press `Enter`
+  - in the shell command line type 
  ```
  # Check the system Python version
 $ python --version
