@@ -26,10 +26,18 @@ Instructions on how to launch
 - 2 Alternately, if you would like to check from the command line you can do the following: 
  * type &#8984;  + `space`
  * type "terminal"
+ * press `Enter`
+ * in the shell command line type 
+ ```
+ # Check the system Python version
+$ python --version
 
-&#8629;
-&#x21B5;
-&crarr;
+# Check the Python 2 version
+$ python2 --version
+
+# Check the Python 3 version
+$ python3 --version
+```
 
 - 2 Clone the repository
 - 3 Navigate into the directory
