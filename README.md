@@ -40,7 +40,9 @@ $ python3 --version
   * On the Python.org page, find the links to download the file.  Versions are available for Mac or Windows.  However, I found the Mac version worked more consistently for me. 
   <br/>
   <br/>
+  
   ![image](https://user-images.githubusercontent.com/11747875/129993191-4912f7c9-edeb-40ad-b73f-96a35f4dc884.png)
+  
   <br/>
   <br/>
 
