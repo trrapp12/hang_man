@@ -24,9 +24,9 @@ Instructions on how to launch
   <br/>
   <br/>
 - 2 Alternately, if you would like to check from the command line you can do the following: 
-  * [Link button](http://example.com/){: .btn }
+ * type `&#8984`
 
-> > :Button label=GitHub, url=https://github.com
+
 
 - 2 Clone the repository
 - 3 Navigate into the directory
