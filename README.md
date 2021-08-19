@@ -15,7 +15,7 @@ This is a simple game of hangman done completely in Python.  The program asks if
 ---
 Instructions on how to launch
 
-- 1 Make sure you have a Python interpreter installed: 
+- Make sure you have a Python interpreter installed: 
   - on a Mac type &#8984;  + `space`
   - type "terminal"
   - press `Enter`
@@ -32,14 +32,11 @@ $ python3 --version
 
 
 ```
-git clone 
-
- * This will show you if you have Python installed already and which version you have installed. 
+- This will show you if you have Python installed already and which version you have installed. 
  
-- 2 If you need to, install Python
-
-  * From your browser navigate to Python.org
-  * On the Python.org page, find the links to download the file.  Versions are available for Mac or Windows.  However, I found the Mac version worked more consistently for me. 
+- If you need to, install Python
+  - From your browser navigate to Python.org
+  - On the Python.org page, find the links to download the file.  Versions are available for Mac or Windows.  However, I found the Mac version worked more consistently for me. 
   <br/>
   <br/>
   
@@ -48,20 +45,20 @@ git clone
   <br/>
   <br/>
 
-- 3 Create a Folder to hold the program
-  * in the terminal type `mkdir Hangman` or whatever other name you want to call it. 
-  * navigate into the folder by typing `cd Hangman`
-  * clone the program into the Hangman folder you just created by typing: 
+- Create a Folder to hold the program
+  - in the terminal type `mkdir Hangman` or whatever other name you want to call it. 
+  - navigate into the folder by typing `cd Hangman`
+  - clone the program into the Hangman folder you just created by typing: 
  
  ```
  git clone https://github.com/trrapp12/hang_man.git
  ```
   
-- 4 Make sure you are still in the Hangman folder
-- 5 You should be able to see a program named 'hangman.py'.  If not, navigate back into the Hangman folder.  
-- 6 Type `python hangman.py` to run the program from the terminal
-- 7 The program runs from prompts in the Command Line, so watch for prompts and respond accordingly. 
-- 8 Enjoy!
+- Make sure you are still in the Hangman folder
+- You should be able to see a program named 'hangman.py'.  If not, navigate back into the Hangman folder.  
+- Type `python hangman.py` to run the program from the terminal
+- The program runs from prompts in the Command Line, so watch for prompts and respond accordingly. 
+- Enjoy!
 <br/>
 <br/>
 ### This project demonstrates the following:
