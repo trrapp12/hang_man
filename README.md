@@ -17,7 +17,14 @@ Instructions on how to launch
 
 - 1 Install Python
   * From your browser navigate to Python.org
-  * ![image](https://user-images.githubusercontent.com/11747875/129993191-4912f7c9-edeb-40ad-b73f-96a35f4dc884.png)
+  * On the Python.org page, find the links to download the file.  Versions are available for Mac or Windows.  However, I found the Mac version worked more consistently for me. 
+  <br/>
+  <br/>
+  ![image](https://user-images.githubusercontent.com/11747875/129993191-4912f7c9-edeb-40ad-b73f-96a35f4dc884.png)
+  <br/>
+  <br/>
+- 2 Alternately, if you would like to check from the command line you can do the following: 
+  * [Link button](http://example.com/){: .btn }
 - 2 Clone the repository
 - 3 Navigate into the directory
 - 4 From the terminal launch the program by typing ```python hangman.py```
