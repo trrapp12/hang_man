@@ -25,6 +25,16 @@ Instructions on how to launch
   <br/>
 - 2 Alternately, if you would like to check from the command line you can do the following: 
   * [Link button](http://example.com/){: .btn }
+
+<span style="
+background-color:#e4d28c;
+border-radius:50px;
+padding-right:2.5em;
+padding-left:2.5em;
+padding-top:.85em;
+padding-bottom:.85em;
+"> Click Here </span>
+
 - 2 Clone the repository
 - 3 Navigate into the directory
 - 4 From the terminal launch the program by typing ```python hangman.py```
