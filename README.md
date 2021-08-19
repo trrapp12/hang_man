@@ -26,7 +26,9 @@ Instructions on how to launch
 - 2 Alternately, if you would like to check from the command line you can do the following: 
  * type &#8984
 
-
+&#9658;
+&#767;
+&#2400;
 
 - 2 Clone the repository
 - 3 Navigate into the directory
