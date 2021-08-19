@@ -26,7 +26,7 @@ Instructions on how to launch
 - 2 Alternately, if you would like to check from the command line you can do the following: 
  * type  
 
- &#8984
+ &#8984;
 
 &#9658;
 &#767;
