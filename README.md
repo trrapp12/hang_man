@@ -23,13 +23,13 @@ This is a simple game of hangman done completely in Python.  The program asks if
   - in the shell command line type 
  
  ```
- # Check the system Python version
+ \\Check the system Python version
 $ python --version
 
-# Check the Python 2 version
+\\Check the Python 2 version
 $ python2 --version
 
-# Check the Python 3 version
+\\Check the Python 3 version
 $ python3 --version
 
 ```
