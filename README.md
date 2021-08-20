@@ -21,6 +21,7 @@ This is a simple game of hangman done completely in Python.  The program asks if
   - type "terminal"
   - press `Enter`
   - in the shell command line type 
+ 
  ```
  # Check the system Python version
 $ python --version
@@ -31,8 +32,8 @@ $ python2 --version
 # Check the Python 3 version
 $ python3 --version
 
-
 ```
+
 2. This will show you if you have Python installed already and which version you have installed. 
  
 3. If you need to, install Python
