@@ -83,24 +83,55 @@ $ python3 --version
 8. The program runs from prompts in the Command Line, so watch for prompts and respond accordingly. 
 9. Enjoy!
 <br/>
-<br/>
 
-### This project demonstrates the following:
 ---
 
+### THIS PROJECT DEMONSTRATES THE FOLLOWING:
+
 - [x] Correct use of functions, conditionals, loops, arrays.
+      
 - [x] Properly sequence Python statements.
+      
 - [x] Select a random word from a dictionary of words.
+      
 - [x] Display all guesses on the user's screen so the user knows what letters he/she has already guessed.
+      
 - [x] Display a visual indication for each letter in the word.
+      
 - [x] Display the number of turns remaining.
+      
 - [x] Decrement the number of turns remaining.
+      
 - [x] Display letters guessed in the position that they are contained in the word.
 
 <br/>
-<br/>
 
-### More Information:
 ---
 
-\**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
+### CHALLENGES I OVERCAME:
+
+* This was one of my first coding projects so, while a great opportunity for me to learn about iteration and logic statements, the credit for the work goes to the instructor.
+
+<br/>
+
+---
+
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED:
+
+- [X] The work was that of the instructor.  This was one of my first coding projects so, while a great opportunity for me to learn about iteration and logic statements, the credit for the work goes to the instructor.
+
+<br/>
+
+---
+
+### ATTRIBUTIONS
+
+* Instructor lead project completed by me with direction from Bob Ziroll. 
+
+<br/>
+
+---
+
+### YOU CAN FIND ME AT:
+
+*For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
