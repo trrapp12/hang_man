@@ -22,16 +22,18 @@
 
 ---
 
-### Description:
+### DESCRIPTION:
+
+
 
 This is a simple game of hangman done completely in Python.  The program asks if the user wants to have the rules explained or if they want to play.  When it comes time to play the program chooses a random word from a list of words.  The program then displays the number of spaces in the word and the player is left to guess a letter.  The program checks the letter guessed and filters out case issues or non alphabetic characters and returns an error message if there is one.  If the input is valid, then the program checks if and where the character is contained in the word and displays which empty space is now filled in.  If the guess is incorrect the computer chooses from a list of disparaging remarks to taunt the player and displays how much of the person is "drawn." The player wins if all letters are guessed correctly in under 5 guesses.
+
 <br/>
-<br/>
 
-
-
-### Instructions on how to launch:
 ---
+
+### QUICKSTART INSTRUCTIONS:
+
 
 1. Make sure you have a Python interpreter installed: 
   - on a Mac type &#8984;  + `space`
